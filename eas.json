@@ -1,0 +1,33 @@
+{
+  "cli": {
+    "version": ">= 0.52.0",
+    "requireCommit": true
+  },
+  "build": {
+    "development": {
+      "distribution": "internal",
+      "android": {
+        "gradleCommand": ":app:assembleDebug"
+      },
+      "ios": {
+        "buildConfiguration": "Debug"
+      }
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "android": {
+        "image": "latest",
+        "gradleCommand": ":app:assembleVersionedRelease",
+        "env": {
+          "ANDROID_SDK_ROOT": "/home/expo/Android/Sdk",
+          "LANG": "en_US.UTF-8"
+        }
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "slug": "versioned-client",
+    "android": {
+      "package": "com.wkozyra.versionedclient"
+    }
+  }
+}
