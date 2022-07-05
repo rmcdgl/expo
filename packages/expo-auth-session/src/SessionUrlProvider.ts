@@ -86,8 +86,8 @@ export class SessionUrlProvider {
   }
 
   private static getHostAddressQueryParams(): ParsedQs | undefined {
-    let hostUri: string | undefined =
-      Constants.manifest?.hostUri ?? Constants.manifest2?.extra?.expoClient?.hostUri;
+    // only legacy manifests have hostUri
+    let hostUri: string | undefined = Constants.manifest?.hostUri;
     if (
       !hostUri &&
       (ExecutionEnvironment.StoreClient === Constants.executionEnvironment ||

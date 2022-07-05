@@ -70,7 +70,8 @@ export class SessionUrlProvider {
         return redirectUrl;
     }
     static getHostAddressQueryParams() {
-        let hostUri = Constants.manifest?.hostUri ?? Constants.manifest2?.extra?.expoClient?.hostUri;
+        // only legacy manifests have hostUri
+        let hostUri = Constants.manifest?.hostUri;
         if (!hostUri &&
             (ExecutionEnvironment.StoreClient === Constants.executionEnvironment ||
                 Linking.resolveScheme({}))) {

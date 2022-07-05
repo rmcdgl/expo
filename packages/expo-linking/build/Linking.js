@@ -11,11 +11,9 @@ function validateURL(url) {
     invariant(url, 'Invalid URL: cannot be empty');
 }
 function getHostUri() {
+    // only legacy manifests have hostUri
     if (Constants.manifest?.hostUri) {
         return Constants.manifest.hostUri;
-    }
-    else if (Constants.manifest2?.extra?.expoClient?.hostUri) {
-        return Constants.manifest2.extra.expoClient.hostUri;
     }
     else if (!hasCustomScheme()) {
         // we're probably not using up-to-date xdl, so just fake it for now
