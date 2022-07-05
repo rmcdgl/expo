@@ -22,7 +22,7 @@ logInfo(`Copied latest Expo SDK version from v${version}`);
 module.exports = {
   trailingSlash: true,
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx'],
-  experimental: { emotion: true },
+  compiler: { emotion: true },
   swcMinify: true,
   typescript: {
     ignoreBuildErrors: true,
