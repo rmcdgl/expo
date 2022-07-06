@@ -47,6 +47,9 @@ internal struct ImagePickerOptions: Record {
   
   @Field
   var selectionLimit: Int?
+  
+  @Field
+  var orderedSelection: Bool = false
 }
 
 internal enum PresentationStyle: String, EnumArgument {
