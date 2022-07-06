@@ -38,31 +38,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 0px; display: block; list-style-type: circle; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="name"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#name"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         name
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -98,11 +98,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (string)
               </strong>
@@ -164,31 +164,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 0px; display: block; list-style-type: circle; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="androidnavigationbar"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#androidnavigationbar"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         androidNavigationBar
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -224,11 +224,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (object)
               </strong>
@@ -333,31 +333,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 32px; display: list-item; list-style-type: default; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="visible"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#visible"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         visible
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -393,11 +393,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (enum)
               </strong>
@@ -459,31 +459,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 64px; display: list-item; list-style-type: circle; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="always"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#always"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         always
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -519,11 +519,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (boolean)
               </strong>
@@ -542,31 +542,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 32px; display: list-item; list-style-type: default; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="backgroundcolor"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#backgroundcolor"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         backgroundColor
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -602,23 +602,23 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (string)
               </strong>
                - Specifies the background color of the navigation bar. 
             </div>
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               6 character long hex color string, eg: 
               <code
-                class="inline css-1msevpm-InlineCode"
+                class="inline css-1fz3od4-InlineCode"
               >
                 '#000000'
               </code>
@@ -636,31 +636,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 0px; display: block; list-style-type: circle; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="intentfilters"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#intentfilters"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         intentFilters
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -696,11 +696,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (array)
               </strong>
@@ -750,7 +750,7 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               </div>
             </div>
             <blockquote
-              class="css-snvjit-Quote"
+              class="css-1yla49y-Quote"
               data-text="true"
             >
               <div>
@@ -768,30 +768,16 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
                     <title>
                       Info-icon
                     </title>
-                    <g
-                      clip-path="url(#info-icon_svg__info-icon_svg__clip0)"
-                    >
-                      <path
-                        d="M10 1a9 9 0 100 18 9 9 0 000-18zm-.01 4.064a.962.962 0 01.73-.33c.229 0 .43.082.582.238.152.155.23.354.23.59 0 .295-.104.558-.308.78-.209.23-.453.347-.726.347a.777.777 0 01-.576-.244.844.844 0 01-.227-.607c0-.3.099-.561.295-.774zm1.499 8.48c-.746.7-1.279 1.138-1.628 1.337-.372.213-.679.317-.937.317a.814.814 0 01-.622-.254c-.152-.162-.23-.382-.23-.652 0-.69.392-2.293 1.197-4.9.013-.044.024-.086.031-.125a.814.814 0 00-.105.056c-.066.042-.267.2-.854.773a.25.25 0 01-.329.02l-.347-.27a.25.25 0 01-.033-.367c.542-.596 1.047-1.029 1.502-1.286.477-.269.88-.4 1.232-.4.227 0 .411.057.547.17a.621.621 0 01.225.492c0 .132-.063.474-.522 2.015-.657 2.203-.814 3.003-.825 3.28.125-.074.419-.283 1.046-.873a.25.25 0 01.347.003l.308.3a.25.25 0 01-.003.363z"
-                        fill="var(--expo-theme-icon-default)"
-                      />
-                    </g>
-                    <defs>
-                      <clippath
-                        id="info-icon_svg__info-icon_svg__clip0"
-                      >
-                        <path
-                          d="M0 0h20v20H0z"
-                          fill="#fff"
-                        />
-                      </clippath>
-                    </defs>
+                    <path
+                      d="M10 1a9 9 0 100 18 9 9 0 000-18zm-.01 4.064a.962.962 0 01.73-.33c.229 0 .43.082.582.238.152.155.23.354.23.59 0 .295-.104.558-.308.78-.209.23-.453.347-.726.347a.777.777 0 01-.576-.244.844.844 0 01-.227-.607c0-.3.099-.561.295-.774zm1.499 8.48c-.746.7-1.279 1.138-1.628 1.337-.372.213-.679.317-.937.317a.814.814 0 01-.622-.254c-.152-.162-.23-.382-.23-.652 0-.69.392-2.293 1.197-4.9.013-.044.024-.086.031-.125a.814.814 0 00-.105.056c-.066.042-.267.2-.854.773a.25.25 0 01-.329.02l-.347-.27a.25.25 0 01-.033-.367c.542-.596 1.047-1.029 1.502-1.286.477-.269.88-.4 1.232-.4.227 0 .411.057.547.17a.621.621 0 01.225.492c0 .132-.063.474-.522 2.015-.657 2.203-.814 3.003-.825 3.28.125-.074.419-.283 1.046-.873a.25.25 0 01.347.003l.308.3a.25.25 0 01-.003.363z"
+                      fill="var(--expo-theme-icon-default)"
+                    />
                   </svg>
                 </div>
               </div>
               <div>
                 <div
-                  class=" css-goddgh-PDIV"
+                  class=" css-izsx1d-PDIV"
                   data-text="true"
                 >
                    
@@ -816,31 +802,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 32px; display: list-item; list-style-type: default; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="autoverify"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#autoverify"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         autoVerify
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -876,11 +862,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (boolean)
               </strong>
@@ -899,31 +885,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 32px; display: list-item; list-style-type: default; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="data"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#data"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         data
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -959,11 +945,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (array || object)
               </strong>
@@ -981,31 +967,31 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
               style="margin-left: 64px; display: list-item; list-style-type: circle; overflow-x: visible;"
             >
               <div
-                class=" css-goddgh-PDIV"
+                class=" css-izsx1d-PDIV"
                 data-text="true"
               >
                 <div
-                  class="css-cssveg"
+                  class="css-79elbk"
                 >
                   <span
-                    class="css-9aqeco"
+                    class="css-120d683"
                     id="host"
                   />
                   <a
-                    class="css-1t5v929"
+                    class="css-8y2kaf"
                     href="#host"
                   >
                     <span
-                      class="css-1wnvjz2"
+                      class="css-6n7j50"
                     >
                       <code
-                        class="inline css-1msevpm-InlineCode"
+                        class="inline css-1fz3od4-InlineCode"
                       >
                         host
                       </code>
                     </span>
                     <span
-                      class="css-1byp57e"
+                      class="css-1eysgws"
                     >
                       <svg
                         aria-label="permalink"
@@ -1041,11 +1027,11 @@ exports[`AppConfigSchemaPropertiesTable correctly matches snapshot 1`] = `
             class="css-t44xva-Cell"
           >
             <div
-              class=" css-goddgh-PDIV"
+              class=" css-izsx1d-PDIV"
               data-text="true"
             >
               <strong
-                class="css-1g2v0mq-B"
+                class="css-1k788ud-B"
               >
                 (string)
               </strong>

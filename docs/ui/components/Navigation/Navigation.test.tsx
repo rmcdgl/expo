@@ -7,7 +7,11 @@ import visit from 'unist-util-visit';
 import { findActiveRoute, Navigation } from './Navigation';
 import { NavigationNode } from './types';
 
-jest.mock('next/router');
+jest.mock('next/router', () => ({
+  useRouter: jest.fn().mockReturnValue({
+    query: {},
+  }),
+}));
 
 /** A set of navigation nodes to test with */
 const nodes: NavigationNode[] = [
@@ -35,10 +39,6 @@ const nodes: NavigationNode[] = [
 ];
 
 describe(Navigation, () => {
-  beforeEach(() => {
-    jest.mocked(useRouter).mockReturnValue({ pathname: '/' } as any);
-  });
-
   it('renders pages', () => {
     const section = getNode(nodes, { name: 'Get started' });
     render(<Navigation routes={children(section)} />);
