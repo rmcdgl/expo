@@ -19,6 +19,7 @@ const mockedRouter = jest.mocked(Router);
 function renderContext(router = Router) {
   return renderHook(usePageApiVersion, {
     wrapper: props => (
+      // @ts-ignore
       <PageApiVersionProvider router={router}>{props.children}</PageApiVersionProvider>
     ),
   });
