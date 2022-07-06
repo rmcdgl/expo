@@ -1,9 +1,11 @@
-#include "DevMenuWorkletEventHandler.h"
+#include "WorkletEventHandler.h"
 
-namespace devmenureanimated {
+namespace reanimated {
 
-void WorkletEventHandler::process(jsi::Runtime &rt, jsi::Value &eventValue) {
+void WorkletEventHandler::process(
+    jsi::Runtime &rt,
+    const jsi::Value &eventValue) {
   handler.callWithThis(rt, handler, eventValue);
 }
 
-}
+} // namespace reanimated

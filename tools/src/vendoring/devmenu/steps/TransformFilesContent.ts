@@ -76,6 +76,6 @@ export const renameIOSSymbols = (settings: {
 }): TransformFilesContent => {
   return new TransformFilesContent({
     ...settings,
-    filePattern: path.join('ios', '**', '*.@(h|m)'),
+    filePattern: path.join('ios', '**', '*.@(h|m|mm)'),
   });
 };

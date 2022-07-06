@@ -7,8 +7,6 @@
 
 #import "DevMenuREAValueNode.h"
 
-extern RCTBridge *_devmenu_bridge_reanimated;
-
 @interface DevMenuREAModule : RCTEventEmitter <RCTBridgeModule, RCTEventDispatcherObserver, RCTUIManagerObserver>
 
 @property (nonatomic, readonly) DevMenuREANodesManager *nodesManager;
