@@ -20,8 +20,7 @@ public final class ExpoBridgeModule: NSObject, RCTBridgeModule {
    architecture of Expo modules and the app itself.
    */
   override init() {
-    appContext = AppContext().useModulesProvider("ExpoModulesProvider")
-    appContext.moduleRegistry.register(moduleType: NativeModulesProxyModule.self)
+    appContext = AppContext()
     super.init()
 
     // Listen to React Native notifications posted just before the JS is executed.
@@ -49,6 +48,15 @@ public final class ExpoBridgeModule: NSObject, RCTBridgeModule {
     didSet {
       appContext.reactBridge = bridge
     }
+  }
+  
+  @objc
+  public func legacyProxyDidSetBridge(_ legacyProxy: LegacyNativeModulesProxy,
+                                      exModuleRegistry: EXModuleRegistry) {
+    appContext.legacyModuleRegistry = exModuleRegistry
+    appContext.legacyModulesProxy = legacyProxy
+    appContext.useModulesProvider("ExpoModulesProvider")
+    appContext.moduleRegistry.register(moduleType: NativeModulesProxyModule.self)
   }
 
   // MARK: - Notifications

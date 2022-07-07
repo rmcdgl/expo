@@ -201,9 +201,11 @@ RCT_EXPORT_MODULE(NativeUnimoduleProxy)
 
 - (void)setBridge:(RCTBridge *)bridge
 {
-  _appContext = [(ExpoBridgeModule *)[bridge moduleForClass:ExpoBridgeModule.class] appContext];
-  [_appContext setLegacyModuleRegistry:_exModuleRegistry];
-  [_appContext setLegacyModulesProxy:self];
+  ExpoBridgeModule* expoBridgeModule = [bridge moduleForClass:ExpoBridgeModule.class];
+  [expoBridgeModule legacyProxyDidSetBridge:self exModuleRegistry:_exModuleRegistry];
+  _appContext = [expoBridgeModule appContext];
+//  [_appContext setLegacyModuleRegistry:_exModuleRegistry];
+//  [_appContext setLegacyModulesProxy:self];
 
   if (!_bridge) {
     // The `setBridge` can be called during module setup or after. Registering more modules
